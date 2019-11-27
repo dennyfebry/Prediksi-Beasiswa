@@ -2,7 +2,7 @@
 $server 	= "localhost";
 $username 	= "root";
 $password 	= "";
-$database 	= "beasiswa_pandji";
+$database 	= "prediksibeasiswa";
 
 $connect = new mysqli($server, $username, $password, $database);
 
